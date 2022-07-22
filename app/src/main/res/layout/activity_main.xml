@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relMain"
+    android:visibility="gone"
+    tools:context=".MainActivity">
+
+<com.airbnb.lottie.LottieAnimationView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:lottie_rawRes="@raw/movie"
+    app:lottie_autoPlay="true"
+    app:lottie_loop="true"
+    />
+
+    <TextView
+        android:id="@+id/txtFlixter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Flixter"
+        android:textColor="@color/black"
+        android:fontFamily="cursive"
+        android:visibility="gone"
+        android:textSize="45dp" />
+
+    <TextView
+        android:id="@+id/txtMovie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Movie"
+         android:textSize="30dp"
+        android:textColor="#338EDF"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:visibility="gone"
+        android:layout_marginLeft="80dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To be entertained by a good movie, what a better way to spend a good time."
+        android:textSize="15dp"
+        android:textColor="#771E88E5"
+        android:textStyle="italic"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="40dp"/>
+
+
+
+</RelativeLayout>

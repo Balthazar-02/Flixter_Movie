@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375564187688",
+    "project_id": "flixter-movie",
+    "storage_bucket": "flixter-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375564187688:android:7bc5e5ab7fec558a22dd1d",
+        "android_client_info": {
+          "package_name": "com.Balthazar.flixter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375564187688-je0t69tubibq7ditoiqjed2rog6lovv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHHBuAnOoe_vvQl6aexbENuFDWQMy-do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375564187688-je0t69tubibq7ditoiqjed2rog6lovv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

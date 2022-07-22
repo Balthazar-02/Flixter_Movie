@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/simpleTDo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TODO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ToDo_20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_hello_world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_university_lab1" vcs="Git" />
+  </component>
+</project>
