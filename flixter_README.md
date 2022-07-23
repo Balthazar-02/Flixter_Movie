@@ -20,6 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [x] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 - [x]  Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x]  user can register and log in to the application with an email address and a password.
 
 ### App Walkthough GIF
 
